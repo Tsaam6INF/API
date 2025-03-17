@@ -20,6 +20,8 @@ values ("Jasper","Lanoote","jasper.lanoote","login123");
 insert into user (first_name, last_name, login, password)
 values ("Mauritz","Verbeke","mauritz.verbeke","login123");
 
+-- update user set first_name = "Mauritz", last_name = "Verbeke", password = "login123" where user_id = 5;
+
 
 
 
